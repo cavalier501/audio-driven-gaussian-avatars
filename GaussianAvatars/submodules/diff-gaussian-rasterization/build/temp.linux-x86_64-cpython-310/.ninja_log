@@ -1,0 +1,11 @@
+# ninja log v6
+1	2283	1741351354119154936	/home/zh/master_thesis_supplementary/GaussianAvatars/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-310/cuda_rasterizer/forward.o	fdf393602fa1283b
+0	2392	1741351354118154911	/home/zh/master_thesis_supplementary/GaussianAvatars/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-310/cuda_rasterizer/backward.o	6b4280eb1559fc4d
+1	7600	1741351354119154936	/home/zh/master_thesis_supplementary/GaussianAvatars/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-310/cuda_rasterizer/rasterizer_impl.o	ffbe071df4f7e397
+2	12255	1741351354120154961	/home/zh/master_thesis_supplementary/GaussianAvatars/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-310/ext.o	7e78a3202adaaf77
+2	34922	1741351354120154961	/home/zh/master_thesis_supplementary/GaussianAvatars/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-310/rasterize_points.o	c0da65f932741a4b
+5	3529	1741512297295111466	/home/zh/master_thesis_supplementary/GaussianAvatars/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-310/cuda_rasterizer/forward.o	d7e0b9a1beb076d1
+5	3548	1741512297295111466	/home/zh/master_thesis_supplementary/GaussianAvatars/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-310/cuda_rasterizer/backward.o	d0eaa75fcbec7bb2
+5	7638	1741512297295111466	/home/zh/master_thesis_supplementary/GaussianAvatars/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-310/cuda_rasterizer/rasterizer_impl.o	22e6329ce6be25a8
+5	10835	1741512297295111466	/home/zh/master_thesis_supplementary/GaussianAvatars/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-310/ext.o	e8fe7292afc38892
+5	34042	1741512297295111466	/home/zh/master_thesis_supplementary/GaussianAvatars/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-310/rasterize_points.o	f218f6f1d7d0c2b9

@@ -1,0 +1,7 @@
+# ninja log v6
+0	6885	1741351390377066510	/home/zh/master_thesis_supplementary/GaussianAvatars/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	a05e2eb34e684a16
+0	10070	1741351390377066510	/home/zh/master_thesis_supplementary/GaussianAvatars/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	cb85df11f365af75
+1	33081	1741351390378066535	/home/zh/master_thesis_supplementary/GaussianAvatars/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	b5ac454f66643bdc
+5	6908	1741512332788743414	/home/zh/master_thesis_supplementary/GaussianAvatars/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	71fe2444db2dd385
+5	10179	1741512332788743414	/home/zh/master_thesis_supplementary/GaussianAvatars/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	9d425c6c0a1f66e
+5	33222	1741512332788743414	/home/zh/master_thesis_supplementary/GaussianAvatars/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	bbe1222694474150

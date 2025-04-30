@@ -1,0 +1,25 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python 调试程序: 当前文件",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/train.py",
+            "console": "integratedTerminal",
+            "python":"/home/zh/anaconda3/envs/gaussian-avatars/bin/python",
+            "env": {
+                "PATH": "/home/zh/anaconda3/envs/gaussian-avatars/bin:${env:PATH}"
+              },
+            "args": [
+                "-s", "data/UNION10_306_EMO1234EXP234589_v16_DS2-0.5x_lmkSTAR_teethV3_SMOOTH_offsetS_whiteBg_maskBelowLine",
+                "-m","output/UNION10EMOEXP_306_eval_600k_debug_test",
+                "--eval",
+                "--bind_to_mesh",
+                "--white_background",
+                "--port","60000"
+
+            ]
+        }
+    ]
+}

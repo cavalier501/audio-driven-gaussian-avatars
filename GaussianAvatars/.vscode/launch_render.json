@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python 调试程序: 当前文件",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/render.py",
+            "console": "integratedTerminal",
+            "python":"/home/zh/anaconda3/envs/gaussian-avatars/bin/python",
+            "env": {
+                "PATH": "/home/zh/anaconda3/envs/gaussian-avatars/bin:${env:PATH}"
+              },
+            "args": [
+                "-m","output/UNION10EMOEXP_306_eval_600k"
+
+            ]
+        }
+    ]
+}

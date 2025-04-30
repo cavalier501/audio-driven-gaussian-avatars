@@ -1,0 +1,16 @@
+# Material file
+newmtl color_0
+Kd 0.0 0.0 1.0
+
+newmtl color_1
+Kd 0.0 1.0 0.0
+
+newmtl color_2
+Kd 0.5019607843137255 0.5019607843137255 0.5019607843137255
+
+newmtl color_3
+Kd 1.0 0.0 0.0
+
+newmtl color_4
+Kd 1.0 1.0 1.0
+

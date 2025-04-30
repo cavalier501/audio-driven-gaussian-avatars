@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug main.demo",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "main.demo_different_id_strategy_test",  // 使用模块模式运行
+            "console": "integratedTerminal",  // 使用 VS Code 内置终端运行
+            "args": [
+                "--config", "config/unitalker.yaml",
+                "--condition_id","each",
+                "test_out_path", "./test_results/demo_id_strategy.npz"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2 @@
+unitalker和gaussian avatar中的flame
+模板点数位置竟然不太一样，看看怎么回事
