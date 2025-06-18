@@ -12,7 +12,10 @@
 </p>
 
 实验可视化结果
-<video src="./imgs/方法对比_with audio_2.mp4" controls width="100%"></video>
+
+https://github.com/user-attachments/assets/5c804a94-6924-4016-b828-ce43931cb059
+
+
 
 系统实现部分，高斯头像优化基于[GaussianAvatars](https://github.com/ShenhanQian/GaussianAvatars)；几何的音频驱动基于[Unitalker](https://github.com/X-niper/UniTalker)。
 
